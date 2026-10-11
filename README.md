@@ -9,9 +9,7 @@ I explore AI, XR and everyday life through spatial experiences and practical cre
 ## Work and writing / 作品与记录
 
 - [Official website / 个人网站](https://kateiso.dev/)
-- [About my names and work / 关于我](https://kateiso.dev/blog/posts/names-and-work.html) · [English](https://kateiso.dev/en/blog/posts/names-and-work.html)
 - [AI into Dining — Wangge Yucun / 网格渔村](https://kateiso.dev/projects/ai-into-dining.html): brand design, meal packages, publishing workflows and customer operations. The project has been commercialized; financial figures are not public.
-- [Hospitality workflow note](https://kateiso.dev/en/blog/posts/dining-workflow-design.html) · [餐饮工作流笔记](https://kateiso.dev/blog/posts/dining-workflow-design.html)
 - [Human–AI Co-Memory](https://kateiso.dev/en/blog/posts/human-ai-co-memory.html): an exploratory note on retaining and revising collaborative context.
 - [Projects](https://kateiso.dev/projects.html) · [Writing](https://kateiso.dev/blog.html) · [Photos](https://kateiso.dev/photos.html)
 
